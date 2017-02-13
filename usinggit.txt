@@ -1,0 +1,23 @@
+How to use git bash\
+
+cd = open directory
+ls = show files in directory
+
+
+To open your website folder:
+
+cd c
+cdUsers/kench/Documents/ekubomoabata
+
+
+Commiting your progress:
+
+git status
+git add .
+git commit -m "Your commit message"
+git push
+
+
+Downloading on another machine/get changes
+
+git pull

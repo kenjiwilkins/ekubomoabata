@@ -7,7 +7,7 @@ ls = show files in directory
 To open your website folder:
 
 cd c
-cdUsers/kench/Documents/ekubomoabata
+cd Users/Kench/Documents/ekubomoabata
 
 
 Commiting your progress:
